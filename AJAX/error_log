@@ -1,0 +1,7 @@
+[12-Jul-2021 07:10:00 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/bharatsa/public_html/cvr1/AJAX/ajaxTable.php on line 12
+[15-Jul-2021 07:39:22 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/bharatsa/public_html/cvr1/AJAX/ajaxTable.php on line 12
+[16-Jul-2021 13:13:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/bharatsa/public_html/cvr1/AJAX/ajaxTable.php on line 12
+[16-Jul-2021 13:14:03 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/bharatsa/public_html/cvr1/AJAX/ajaxTable.php on line 12
+[16-Jul-2021 13:15:10 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/bharatsa/public_html/cvr1/AJAX/ajaxTable.php on line 12
+[16-Jul-2021 13:16:26 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/bharatsa/public_html/cvr1/AJAX/ajaxTable.php on line 12
+[16-Jul-2021 13:16:45 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/bharatsa/public_html/cvr1/AJAX/ajaxTable.php on line 12
