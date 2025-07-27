@@ -43,12 +43,11 @@ Robocart/
 
 📸 Screenshots
 
-[Home Page]
-(Home PAge.png)
+[Home Page](Home PAge.png
 ![Product Page]
-(product.png)
+product.png
 ![Cart Page]
-(user login.png)
+user login.png
 
 🧑‍💻 Author
 
