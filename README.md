@@ -1,6 +1,8 @@
 # 🤖 Robocart – Smart E-Commerce Platform for Robotics Components
 
-**Robocart** is an innovative final year project developed to simplify the online purchase of robotics-related components. The platform provides a seamless and user-friendly interface where students, hobbyists, and professionals can explore, select, and order various electronic and mechanical parts essential for their robotic projects.
+**Robocart**
+
+is an innovative final year project developed to simplify the online purchase of robotics-related components. The platform provides a seamless and user-friendly interface where students, hobbyists, and professionals can explore, select, and order various electronic and mechanical parts essential for their robotic projects.
 
 ## 🚀 Features
 
@@ -40,19 +42,26 @@ Robocart/
 4.Run the project using XAMPP / WAMP / live server.
 
 📸 Screenshots
-[Home Page](assets/screenshots/home.png)
-![Product Page](assets/screenshots/products.png)
-![Cart Page](assets/screenshots/cart.png)
+
+[Home Page]
+(Home PAge.png)
+![Product Page]
+(product.png)
+![Cart Page]
+(user login.png)
 
 🧑‍💻 Author
+
 Shubham Suryawanshi
 LinkedIn • GitHub
 
 📜 License
+
 This project is for academic and learning purposes only.
 Feel free to explore and contribute.
 
 Let me know:
+
 - Your backend tech (PHP or Node.js?)
 - If you want a live demo section
 - If you'd like a contribution section (for open-source collaboration)
