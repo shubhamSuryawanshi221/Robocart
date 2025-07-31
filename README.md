@@ -20,7 +20,8 @@
 
 ### 🔻 Home Page
 
-![Home Page](Home PAge.jpg)
+![Home Page]
+<img src="home page.jpg" alt="Home Page" width="100%" />
 
 ### 🔻 User Login
 
