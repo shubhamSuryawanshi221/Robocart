@@ -31,7 +31,7 @@
 ### 🔻 Product Listing
 
 ![Product Page]
-<img src="product.jpg" alt="Home Page" width="100%" />
+<img src="Product.jpg" alt="Home Page" width="100%" />
 
 ---
 
